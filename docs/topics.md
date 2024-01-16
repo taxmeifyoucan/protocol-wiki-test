@@ -24,11 +24,9 @@
 
 ### L
 [Lean UX](module-02)  
-
-### M
-[Microsoft Product Reaction Cards](module-02)  
-
+[Linux](module-02)  
 ### P
+
 [Problem Statement](module-03)  
 [Product Design Principles](module-03)  
 [Prototyping](module-04)   
@@ -49,9 +47,6 @@
 [Usability Goals](module-02)  
 [Usability Testing](module-05)   
 [User-centered Design (UCD)](module-01)  
-[User Experience Design](module-02)   
-[UX Goals](module-02)  
-[UX Strategy](module-03)  
 
 ### V
 [Value Proposition](module-03)  

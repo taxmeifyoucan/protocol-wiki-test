@@ -1,8 +1,6 @@
-# OS generated files #
-######################
-.DS_Store
-.DS_Store?
-.vscode
-.vscode?
-.obsidian
-.obsidian?
+**/.DS_Store
+**/.DS_Store?
+**/.vscode
+**/.vscode?
+**/.obsidian
+**/.obsidian?

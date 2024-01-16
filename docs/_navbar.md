@@ -1,5 +1,4 @@
-* [Schedule](schedule.md)
-* [Topics](topics.md)
+* [Enter the Protocol](schedule.md)
+* [Overview](topics.md)
 * [Resources](resources.md)
-* [UX Techniques Guide](ux-techniques-guide.md)
-* [Contact](contact.md)
+* [Study Group](contact.md)

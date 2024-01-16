@@ -3,11 +3,11 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>Docsify Open Course Starter Kit</title>
+  <title>Protocol Wiki</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Docsify Open Course Starter Kit">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="icon" href="assets/favicon/favicon.png">
+  <link rel="icon" href="assets/favicon/favicon.ico">
 
   <!-- Themeable Simple theme -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
@@ -104,10 +104,10 @@
   <div id="app"></div>
   <script>
     // Enter the URL of your own GitHub Repository in between the two quotes below
-    var gitLinkRepoURL = '';
+    var gitLinkRepoURL = 'https://github.com/taxmeifyoucan/protocol-wiki-test';
 
     // Customize the text for your Edit this Page on GitHub link between the two quotes below
-    var editThisPageLinkText = 'Edit this Page';
+    var editThisPageLinkText = 'Contribute to the wiki';
 
     // Set standalone to true to permanently hide the Sidebar and Navbar
     var standalone = false;
@@ -163,8 +163,8 @@
     window.$docsify = {
       // GENERAL SETTINGS
       // -----------------------------------------------------------------
-      name: 'Docsify Open Course Starter Kit',
-      homepage: 'home.md',
+      name: 'Protocol Wiki',
+      homepage: 'readme.md',
       loadSidebar: !(getURLParameterByName(['standalone', 'embedded']) || standalone || false),
       loadNavbar: !(getURLParameterByName(['standalone', 'embedded']) && !(getURLParameterByName('navbar')) || standalone && !navbar ||false),
       externalLinkTarget: (getURLParameterByName(['standalone', 'embedded'], '_top', '_blank')),
