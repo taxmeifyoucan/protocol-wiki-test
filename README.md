@@ -1,3 +1,3 @@
 # Protocol Wiki
 
-Template repo for study group wiki docs
+Template repo for study group wiki docs. Check github pages deployment and /wiki
