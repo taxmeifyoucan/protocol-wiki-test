@@ -1,6 +1,6 @@
 - [Protocol Intro](protocol-intro)
-- [EL](module-01)
-- [![Calendar Icon](https://icongr.am/fontawesome/calendar.svg?size=16&color=808080)Calendar](https://canvas.sfu.ca/courses/44038/calendar)
+- [Resources](resources)
+- [![Calendar Icon](https://icongr.am/fontawesome/calendar.svg?size=16&color=808080)Topics](topics)
 - **Wiki Info**
   - [GitHub Repository](https://github.com/taxmeifyoucan/protocol-wiki-test)
 

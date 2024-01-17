@@ -49,6 +49,8 @@
 
 ### M
 [MEV]
+[Mempool]
+[MPT]
 
 ### P
 [p2p]
@@ -64,7 +66,7 @@
 [SSZ]
 
 ### T
-[Transaction]
+[Transactions]
 
 ### U
 [Unix philosophy]
@@ -74,9 +76,7 @@
 [VDFs]
 
 ### W
-
 Weak subjectivity
 
 ### Z
-
 ZK proofs
