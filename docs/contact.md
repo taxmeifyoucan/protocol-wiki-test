@@ -1,3 +1,0 @@
-# Contact
-
-Join the group

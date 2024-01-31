@@ -1,6 +1,69 @@
-- [Protocol Intro](protocol-intro)
-- [Resources](resources)
-- [![Calendar Icon](https://icongr.am/fontawesome/calendar.svg?size=16&color=808080)Topics](topics)
+- [Home](readme.md)
+- **Study Group**
+- [EPS intro](/eps/intro.md)
+- Schedule
+  - [Week 0](/eps/week0.md)
+  - [Week 1](/eps/week1.md)
+- [Contributing](contributing.md)
+- **Protocol Wiki**
+- The Protocol
+  - [Overview](/wiki/protocol/overview.md)
+  - [History](/wiki/protocol/history.md)
+  - [Coordination](/wiki/protocol/pm.md)
+  - [CS Resources]
+- Execution Layer
+  - [EL Clients](/wiki/EL/el-clients.md)
+  - [EL Specs](/wiki/EL/el-specs.md)
+  - Client architecture
+  - [EVM]
+  - [Transaction]
+  - [DevP2P]
+  - [MPT]
+  - [JSON-RPC]
+- Consensus Layer
+  - [CL Clients](/wiki/CL/cl-clients.md)
+  - [CL Specs](/wiki/CL/cl-specs.md)
+  - [Proof-of-Stake]
+  - [Beacon API]
+  - [libp2p]
+  - Client architecture
+- Development
+  - [Core development](/wiki/dev/core.md)
+  - [Network upgrades](/wiki/dev/upgrades.md)
+- Testing and security
+  - [Testing overview](/wiki/testing/overview.md)
+  - [Incidents](/wiki/testing/incidents.md)
+  - [hive](/wiki/testing/hive.md)
+  - Formal Verification
+- Research
+  - [Roadmap overview](/wiki/research/roadmap.md)
+  - Scaling
+    - Sharding
+    - Statelessness
+    - Purge
+  - MEV
+    - PBS
+    - Censorship
+  - Proof of Stake
+    - Upgrades
+    - SSF
+    - SSLE
+  - [Light Clients](/wiki/research/light-clients.md)
+  - Privacy
+  - AA
+  - ASE
+  - EOF
+  - Portal Network
+- Cryptography
+  - Eliptic curves
+    - ECDSA
+    - BLS
+  - [Commitments]
+    - Polynomials
+    - Commitment schemes
+  - ZK
+- [Protocol Fellowship](/wiki/epf.md)
+
 - **Wiki Info**
   - [GitHub Repository](https://github.com/taxmeifyoucan/protocol-wiki-test)
 
