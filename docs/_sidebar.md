@@ -38,6 +38,7 @@
 - Research
   - [Roadmap overview](/wiki/research/roadmap.md)
   - Scaling
+    - Blobs
     - Sharding
     - Statelessness
     - Purge

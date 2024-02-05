@@ -1,8 +1,12 @@
 # Contribute to the Protocol Wiki
 
-The Protocol Wiki is an open and collaborative project. Whether you are part of the [Study Group](study-group.md) or not, we welcome your contributions! Help us to build the documentation and improve availability of learning resources on Ethereum core R&D. 
+The Protocol Wiki is an open and collaborative project. Whether you are part of the [Study Group](study-group.md) or not, we welcome your contributions! Help us to build the documentation and improve availability of learning resources on Ethereum core R&D.
 
-We are not aiming to rewrite other existing Ethereum documentation but rather create a cohesive collection of technical resources for aspiring core developers and researchers.
+*We are not aiming to rewrite other existing Ethereum documentation* but rather create a cohesive collection of technical resources for aspiring core developers and researchers.
+
+When creating contributions, consider whether it doesn't exist in another form elsewhere. Use it and reference it in your text but do not copy its content. Focus on adding it into a big picture, connecting it with related topics. 
+
+Write contributions based on what you learned about the protocol along the way, what experience you gathered and missing pieces that slowed you down. Consider it as explaining to your peers, reflect on your own journey as a core developer/reseacher.
 
 ## Contributing
 
@@ -73,7 +77,7 @@ When adding an external link, you can use it directly in the text or on the bott
 
 When linking a page within this wiki, use a relative path and if it references specific topic within the page, use a link to heading IDs. 
 
-Don't overwhelm reader with too many resources within the text. For other important links, add a section on the bottom of the page with list of resources. Resources should have a name or short description with a link and alternative link to its archived mirror. We strongly suggest adding a link to the latest snapshot from archive.org. Example of a link in a resource section: 
+Don't overwhelm reader with too many resohttps://inevitableeth.com/urces within the text. For other important links, add a section on the bottom of the page with list of resources. Resources should have a name or short description with a link and alternative link to its archived mirror. We strongly suggest adding a link to the latest snapshot from archive.org. Example of a link in a resource section: 
 
 [JSON-RPC API reference](https://ethereum.org/en/developers/docs/apis/json-rpc), [archived](https://web.archive.org/web/20240117035335/https://ethereum.org/en/developers/docs/apis/json-rpc)
 
